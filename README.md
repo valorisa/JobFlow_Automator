@@ -23,7 +23,7 @@ JobFlow Automator est un projet d'automatisation des candidatures LinkedIn via n
 1. Clonez ce dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/JobFlow_Automator.git
+   git clone https://github.com/valorisa/JobFlow_Automator.git
    ```
 
 2. Installez les dépendances :
@@ -67,7 +67,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - [Airtable](https://airtable.com) pour le stockage des données.
 - [Slack](https://slack.com) pour les notifications.
 
-Prochaines Étapes
+### Prochaines Étapes ###
 
 Configurer n8n : Suivez les étapes détaillées dans le README.md pour configurer n8n.
 
