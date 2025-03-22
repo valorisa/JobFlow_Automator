@@ -69,13 +69,10 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ### Prochaines Étapes ###
 
-Configurer n8n : Suivez les étapes détaillées dans le README.md pour configurer n8n.
-
-Configurer Airtable : Créez une base Airtable et configurez les colonnes nécessaires.
-
-Configurer Gmail : Autorisez n8n à accéder à votre compte Gmail.
-
-Configurer Slack (optionnel) : Configurez Slack pour recevoir des notifications.
+- Configurer n8n : Suivez les étapes détaillées dans le README.md pour configurer n8n.
+- Configurer Airtable : Créez une base Airtable et configurez les colonnes nécessaires.
+- Configurer Gmail : Autorisez n8n à accéder à votre compte Gmail.
+- Configurer Slack (optionnel) : Configurez Slack pour recevoir des notifications.
 
 ## Documentation
 
